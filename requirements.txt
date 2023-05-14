@@ -1,11 +1,10 @@
-click==7.1.2
-gunicorn==20.0.4
-itsdangerous==1.1.0
+click
+gunicorn
+itsdangerous
 jinja2
-MarkupSafe==1.1.1
-Werkzeug==1.0.1
+MarkupSafe
+Werkzeug
 huggingface_hub==0.14.1
-joblib==1.2.0
 nltk==3.8.1
 numpy==1.24.3
 pandas==1.5.3
